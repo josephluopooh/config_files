@@ -1,7 +1,7 @@
 cd $HOME
 
 # install softwares
-sudo apt update && sudo apt upgrade && sudo apt install zsh git gcc gdb tmux npm curl
+sudo apt update && sudo apt upgrade && sudo apt install zsh git gcc gdb tmux npm curl mosh g++ clang wget emacs
 
 # install tldr
 sudo npm install -g tldr
