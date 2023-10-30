@@ -3,3 +3,7 @@
 	name = Jun Luo
 [credential]
 	helper = store
+[alias]
+	graph = log --all --graph --decorate --oneline
+[core]
+	excludesfile = /home/pooh/.gitignore_global
