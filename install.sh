@@ -18,3 +18,6 @@ fi
 ln -sf "$HOME/config_files/oh-my-zsh/custom" "$HOME/.oh-my-zsh/custom"
 
 ln -sf "$HOME/config_files/zsh/.zshrc" "$HOME/.zshrc"
+
+git config --global user.email "luojun.personal@outlook.com"
+git config --global user.name "Joseph Luo"
